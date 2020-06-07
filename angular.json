@@ -25,7 +25,7 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["src/assets/scripts/d3.v4.min.js", "src/assets/scripts/d3pie.min.js"]
           },
           "configurations": {
             "production": {
@@ -74,7 +74,7 @@
             "styles": [
               "styles.css"
             ],
-            "scripts": [],
+            "scripts": ["src/assets/scripts/d3.v4.min.js", "src/assets/scripts/d3pie.min.js"],
             "assets": [
               "src/favicon.ico",
               "src/assets"
